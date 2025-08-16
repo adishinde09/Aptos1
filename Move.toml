@@ -1,0 +1,15 @@
+[package]
+name = "Lab_Equipment_Booking"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x6c25b9174da9f63e4b770a2e9c8f57ac1782335cc7f872082b2faa70bdf3533d'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
