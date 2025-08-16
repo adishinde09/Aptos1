@@ -28,6 +28,5 @@ While this prototype is simple, the system can be expanded to include:
 ---
 
 ## 📌 Contract Address
-> ⚠️ This contract is currently in **development/testing phase**.  
-> Replace the placeholder below with your actual deployed contract address once published.
+> 0xf2788306c572bba6c4a6fec518fa4db288a3ac68438db97fc2f36a5f47ad874c
 
